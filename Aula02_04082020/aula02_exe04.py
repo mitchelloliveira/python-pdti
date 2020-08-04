@@ -1,5 +1,8 @@
+#Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+
 letra = input("Informe uma letra qualquer: ")
-vogal = letra == "a" or letra == "A" or letra == "e" or letra == "E" or letra == "i" or letra == "I" or letra == "o" or letra == "O" or letra == "u" or letra == "U"
+vogal = letra.lower() == "a" or letra.lower() == "e" or \
+        letra.lower() == "i" or letra.lower() == "o" or letra == "u"
 if vogal:
     print("A letra digitada é uma vogal.")
 else:
