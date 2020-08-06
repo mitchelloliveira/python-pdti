@@ -1,3 +1,8 @@
+# Curso de Python - PDTI-SENAC/RN
+# Profº Weskley Bezerra
+# Mitchell Oliveira
+# 04/08/2020
+# --------------------------------------------------------------
 # Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar,
 # sabendo que a decisão é sempre pelo mais barato.
 

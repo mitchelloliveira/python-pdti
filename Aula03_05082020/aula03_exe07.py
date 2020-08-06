@@ -1,8 +1,7 @@
 # Curso de Python - PDTI-SENAC/RN
 # Profº Weskley Bezerra
 # Mitchell Oliveira
-# 04/08/2020
+# 05/08/2020
 # --------------------------------------------------------------
-# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+# Faça um programa que leia 5 números e informe o maior número.
 
-print("Alo mundo")

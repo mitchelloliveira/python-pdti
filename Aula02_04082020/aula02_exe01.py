@@ -1,3 +1,8 @@
+# Curso de Python - PDTI-SENAC/RN
+# Profº Weskley Bezerra
+# Mitchell Oliveira
+# 04/08/2020
+# --------------------------------------------------------------
 #Faça um Programa que peça dois números e imprima o maior deles.
 
 num1 = int(input("Digite o primeiro número: "))

@@ -1,8 +1,7 @@
 # Curso de Python - PDTI-SENAC/RN
 # Profº Weskley Bezerra
 # Mitchell Oliveira
-# 04/08/2020
+# 06/08/2020
 # --------------------------------------------------------------
-# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+# Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a multiplicação e os números.
 
-print("Alo mundo")

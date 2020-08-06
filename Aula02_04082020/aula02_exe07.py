@@ -1,3 +1,8 @@
+# Curso de Python - PDTI-SENAC/RN
+# Profº Weskley Bezerra
+# Mitchell Oliveira
+# 04/08/2020
+# --------------------------------------------------------------
 # Faça um Programa que leia três números e mostre o maior e o menor deles.
 
 num1 = int(input("Informe o primero número: "))
