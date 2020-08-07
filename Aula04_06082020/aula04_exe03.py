@@ -4,11 +4,12 @@
 # 06/08/2020
 # --------------------------------------------------------------
 # Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+
 notas = []
 soma = 0
 
 for indice in range(1,5):
-    nota = input(f"Informe o número {indice}: ")
+    nota = input(f"Informe a nota {indice}: ")
     nota = int(nota)
     notas.append(nota)
     soma += nota
