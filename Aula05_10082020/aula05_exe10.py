@@ -12,6 +12,7 @@
 # Você perde, no entanto, se tirar um 7 antes de tirar este Ponto novamente.
 
 import random
+
 jogar = "s"
 contador = 1
 pontuacao = 0
@@ -19,6 +20,7 @@ pontuacao = 0
 while jogar.lower() == "s":
     print("")
     jogar = input(f"Joagada{contador}-Deseja lançar os dados (S/N): ")
+
     if jogar.lower() == "n":
         break
 
@@ -49,10 +51,11 @@ while jogar.lower() == "s":
             print("Parabéns, você tirou uma pontuação igual a sua.")
         elif pontos == 7:
             print(f"Você perdeu. Você tirou a pontuação {pontos} antes de repetir sua pontuação anterior que foi {pontuacao}")
-        elif pontos == 11 or pontos == 7:
+        elif pontos == 11:
             print("Você conseguiu 7 ou 11 mas não foi na primeira jogada.")
             print("Mas você continua no jogo, lance os dados novamente.")
         else:
             print("Você continua no jogo, lance os dados novamente.")
 
     contador += 1
+
