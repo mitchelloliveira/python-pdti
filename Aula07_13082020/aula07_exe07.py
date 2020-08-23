@@ -101,9 +101,6 @@ class Tamagushi:
     def aniversario(self):
         self.__idade();
 
-    # Humor ------------------------------------
-    def humor(self):
-
 bv1 = Tamagushi("Zé",18)
 
 bv1.status()

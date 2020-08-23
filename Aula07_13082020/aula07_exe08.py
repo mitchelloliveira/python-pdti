@@ -9,5 +9,3 @@
 # o conteúdo do estomago a cada refeição. Experimente fazer com que um macaco coma o outro.
 # É possível criar um macaco canibal?
 
-class Macaco:
-    # def __init__(self, ):
